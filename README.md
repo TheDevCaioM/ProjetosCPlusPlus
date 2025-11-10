@@ -96,4 +96,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
     Otimizar código existente
 
-⭐ Se este repositório foi útil para você, considere dar uma estrela!
+### 💬 Contato
+
+📧 **E-mail:** [caiomelomorais.c.js@gmail.com](mailto:caiomelomorais.c.js@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/caio-melo-930433362](https://www.linkedin.com/in/caio-melo-930433362/)  
+🌐 **GitHub:** [github.com/TheDevCaioM](https://github.com/TheDevCaioM)
+
+<div align="center">
+⭐️ Não esqueça de dar uma estrela se este projeto te ajudou! ⭐️
+</div>
